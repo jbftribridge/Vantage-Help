@@ -1,0 +1,137 @@
+p.CoverText1 {
+    margin-top: 32pt;
+    line-height: 34.0pt;
+    margin-bottom: 6pt;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 32pt;
+    color: black;
+    font-weight: bold;
+}
+p.CoverText2 {
+    margin-top: 6pt;
+    line-height: 18.0pt;
+    margin-bottom: 6pt;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 14pt;
+    color: black;
+}
+a.Hyperlink {
+    color: black;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 11pt;
+    text-decoration: underline;
+}
+p.Numbering63 {
+    counter-reset: Numbering482;
+    margin-left: 0.50in;
+    --autonumber: autonumber;
+}
+p.Numbering63:before {
+    content: "•";
+    font-family: Symbol;
+    display: inline-flex;
+    width: 0.25in;
+    margin-left: 0.25in;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    text-align: right;
+}
+p.Numbering63[data-list-level="2"]:before {
+    content: "o";
+    font-family: 'Courier New';
+    display: inline-flex;
+    width: 0.25in;
+    margin-left: 0.75in;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    text-align: right;
+}
+p.Numbering63[data-list-level="2"] {
+    counter-reset: Numbering483;
+    margin-left: 1.00in;
+}
+p.TOC1 {
+    margin-top: 3pt;
+    margin-bottom: 3pt;
+    font-family: 'Arial', 'sans-serif';
+    font-weight: bold;
+}
+p.TOC2 {
+    margin-left: 0.70in;
+    text-indent: -0.40in;
+    margin-bottom: 1pt;
+    font-family: 'Arial', 'sans-serif';
+}
+p.TOC3 {
+    margin-left: 1.13in;
+    text-indent: -0.44in;
+    margin-bottom: 1pt;
+    font-family: 'Arial', 'sans-serif';
+}
+p.TOCHeading {
+    margin-top: 12pt;
+    margin-bottom: 6pt;
+    font-family: Arial Bold;
+    font-size: 18pt;
+    font-weight: bold;
+}
+table.TableGrid {
+    border-top: solid windowtext 1.0pt;
+    padding-top: 0;
+    border-bottom: solid windowtext 1.0pt;
+    padding-bottom: 0;
+    border-left: solid windowtext 1.0pt;
+    padding-left: 0;
+    border-right: solid windowtext 1.0pt;
+    padding-right: 0;
+}
+p.body {
+    margin-bottom: 12pt;
+    font-family: 'Arial', 'sans-serif';
+    vertical-align: baseline;
+    background: #FFFFFF;
+}
+body {
+    line-height: 1.08;
+    margin-bottom: 8pt;
+    font-size: 11pt;
+    font-family: Calibri;
+}
+p.bullet {
+    margin-left: 0.25in;
+    margin-bottom: 6pt;
+    font-family: 'Arial', 'sans-serif';
+    color: #000000;
+    background: #FFFFFF;
+}
+span.eop {}
+p.leftblank {
+    line-height: 1.50;
+    text-align: center;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 12pt;
+    color: #000000;
+}
+.margin-left-0-25in {
+margin-left:0.25in;
+}
+.margin-left-0-50in {
+margin-left:0.50in;
+}
+.margin-left-1-00in {
+margin-left:1.00in;
+}
+span.normaltextrun {}
+.position-relative {
+position:relative;
+}
+span { white-space: pre-wrap;
+}
+table.TableGrid td {
+    padding-top: 0pt;
+    padding-left: 5.4pt;
+    padding-bottom: 0pt;
+    padding-right: 5.4pt;
+}

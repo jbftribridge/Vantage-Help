@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+  <title>Table of Contents</title>
+  <book navtitle="Release 2.5" format="html" processing-role="normal">
+    <page href="../contents/R2.5/CR151_Playlist_Administration.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.5/CR189_Admin_Role_for_Translation_Manager.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.5/CR194_Report_of_Homepage_Assets.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.5/CR196A_Updates_to_Skillsoft_Feed.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.5/Media_Player.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.5/Rich_Text_Editor.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Release 2.6" format="html" processing-role="normal">
+    <page href="../contents/R2.6/Vantage-r2.6.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.6/Enhanced_User_Profile.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.6/Follow_User.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.6/R2.6-share_modal.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.6/Updated_Learning_Object_Card_Design.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Release 2.7" format="html" processing-role="normal">
+    <page href="../contents/R2.7/What_s_new_in_Vantage_R2.7.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.7/Making_Content_Available_for_Download.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.7/Vantage_Native_Application.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/R2.7/Downloading_and_Launching_Content_Offline.htm" format="html" processing-role="normal"></page>
+  </book>
+</map>
