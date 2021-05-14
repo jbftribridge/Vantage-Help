@@ -17,7 +17,7 @@
   </content>
   <type>html5</type>
   <glosstermEffect type="number">0</glosstermEffect>
-  <outputPath>C:/Users/jfreeman37/OneDrive - DXC Production/Documents/My RoboHelp Projects/outputs/Experiencehub Help/Git Hub Publish</outputPath>
+  <outputPath>C:/Users/jfreeman37/OneDrive - DXC Production/Documents/My RoboHelp Projects/outputs/Experiencehub Help/Git Hub Publish/</outputPath>
   <name>Git Hub Publish</name>
   <starterPage>index.htm</starterPage>
   <chatbot>
@@ -48,6 +48,10 @@
   <favicon></favicon>
   <patchHomepage type="boolean">true</patchHomepage>
   <gdprCompliance type="boolean">true</gdprCompliance>
-  <serversStatus type="array"></serversStatus>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>Profile_1</name>
+    </serversStatusitem>
+  </serversStatus>
   <republish type="boolean">false</republish>
 </preset>
