@@ -31,4 +31,6 @@
   <page href="../contents/new_topic.htm" format="html" processing-role="normal"></page>
   <page href="../contents/Learning_Details_Page.htm" format="html" processing-role="normal"></page>
   <page href="../contents/Learning_Object_Tiles.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/Flagged_Comment_Moderation.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/Reported_user_added_learning.htm" format="html" processing-role="normal"></page>
 </map>
