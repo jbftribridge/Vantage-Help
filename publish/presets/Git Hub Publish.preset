@@ -17,7 +17,7 @@
   </content>
   <type>html5</type>
   <glosstermEffect type="number">0</glosstermEffect>
-  <outputPath>C:/Users/jfreeman37/OneDrive - DXC Production/Documents/My RoboHelp Projects/outputs/Experiencehub Help/Git Hub Publish/</outputPath>
+  <outputPath>C:/Users/jfreeman37/OneDrive - DXC Production/Documents/robohelp publish test/Publish-Repo/</outputPath>
   <name>Git Hub Publish</name>
   <starterPage>index.htm</starterPage>
   <chatbot>
@@ -43,6 +43,7 @@
   </sitemap>
   <skin>
     <path>../skins/Vantage/html5.skn</path>
+    <name>html5</name>
   </skin>
   <createThumbNails type="boolean">false</createThumbNails>
   <favicon></favicon>
