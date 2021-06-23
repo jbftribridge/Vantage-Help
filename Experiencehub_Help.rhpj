@@ -2,6 +2,7 @@
 <project version="2020.4.0">
 <title>Experiencehub Help</title>
 <id>eefa7645-fcad-4255-b18e-0495aa66a299</id>
+<cloudId>urn:aaid:sc:US:21ca9461-95b9-408a-87ae-53b26079b192</cloudId>
 <preferences>
 <language>en_US</language>
 <noInlineStyle>false</noInlineStyle>
